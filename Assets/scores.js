@@ -32,5 +32,5 @@ if (allScores !== null) {
 
 // back to move to index page
 goBack.addEventListener("click", function () {
-    window.location.replace("./index.html");
+    window.location.replace("../index.html");
 });
