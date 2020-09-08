@@ -202,7 +202,7 @@ function allDone() {
            
 
             // goes final page
-            window.location.replace(".Assets/scores.html");
+            window.location.replace("Assets/scores.html");
         }
     });
 
